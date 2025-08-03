@@ -16,7 +16,7 @@ This is a personal portfolio website for Vincent, a Full Stack Developer. The we
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/NIHVINNY254/plp_my_first_hackathon.git>
    ```
 2. Navigate to the project directory:
    ```bash
